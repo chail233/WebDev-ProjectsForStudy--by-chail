@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+    border-bottom: blue solid 2px;
+    background-color: antiquewhite;
+    padding: 5px;
+    margin: 0;
+}
+body{
+    background-color: gray;
+}
+.container{
+    display: flex;
+    background-color: rgba(0,0,0,0.1);
+}
+.card{
+    display: block;
+    width: 100%;
+    color: white;
+    margin: 10px;
+    border: 3px solid antiquewhite;
+    border-radius: 30px;
+    padding-left: 10px ;
+}
+.card h2 {
+    text-align: center;
+    font-size: 20px;
+}
+.card:hover {
+    background-color: antiquewhite;
+    color: black;
+}
