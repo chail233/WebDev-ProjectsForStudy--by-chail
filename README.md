@@ -7,3 +7,4 @@
 - 2026.4.16
     - 上传项目产品介绍页（Product）
 	- 创建项目mbti测试（mbtipj）
+	- 完成项目mbtipj
