@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+body {
+    background-color: #f7f8fc;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #333;
+    line-height: 1.5;
+}
+
+.container{
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+}
+
+h1{
+    text-align: center;
+}
